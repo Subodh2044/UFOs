@@ -2,7 +2,7 @@
 
 **Purpose**
 
-The goal of this analysis is to create a webpage where the data regarding the UFOs sighting is availabe for the readers to read the article and view the data simulateously with custom filter built in to cater their viewing needss.
+The goal of this analysis is to create a webpage where the data regarding the UFOs sightings are availabe for the readers to read the article and view the data simulateously with custom filter built in to cater their viewing needss.
 
 **Result**
 
